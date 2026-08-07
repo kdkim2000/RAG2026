@@ -72,6 +72,7 @@ eggs/
 # ==========================================
 *.log
 *.sqlite3
+*.db
 data/
 datasets/
 chroma*/
